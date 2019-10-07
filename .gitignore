@@ -29,3 +29,14 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# JetBrains
+.idea
+/.generators
+/.rakeTasks
+
+# Rails ERD
+/erd.pdf
+
+# macOS
+.DS_Store
